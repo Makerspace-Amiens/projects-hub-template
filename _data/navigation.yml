@@ -1,10 +1,5 @@
-- name: Informations
-  link: /informations/
-- name: Blog
-  link: /blog/
-- name: Tutoriels
+- name: Projets
   link: 
   dropdown: 
-    - name: Tutoriels
-      link: /tutorials/
-    
+    - name: Promo-1
+      link: /projets/

@@ -6,10 +6,10 @@ hero_darken: true
 image: "placeholder.png"
 component_toc: true
 doc_header: true
-type: tutorial
+type: promo-1
 
-title: Exemple de Tutoriel
-subtitle: Suivez ces étapes pour accomplir votre tâche
+title: Exemple de projet
+subtitle: Un exemple de projet
 description: Ce tutoriel explique les étapes de base pour réaliser une tâche.
 author: Votre Nom
 
@@ -51,6 +51,7 @@ hardwares:
     link: ""
 
 todo: 100
+
 ---
 
 ## Introduction

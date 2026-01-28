@@ -1,23 +1,23 @@
-style: is-light
+style: is-dark
 height: is-medium
 items:
-  - title: Informations générales
+  - title: Otto - Le robot
     icon: fa-info-circle
     description: >
-      Retrouvez les informations principales du site
-    call_to_action_name: Informations
-    call_to_action_link: /informations
+      Projet I1
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
 
-  - title: Autres infos
+  - title: Des machines qui dessinent
     icon: fa-toolbox
     description: >
-      D'autres infos ici
-    call_to_action_name: Voir les infos
-    call_to_action_link: /informations
+      Projet I2
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
 
-  - title: Autres infos
+  - title: Des machines qui resolvent des puzzles
     description: >
-      D'autres infos ici
+      Projet I3
     icon: fa-cogs
-    call_to_action_name: Voir les infos
-    call_to_action_link: /informations
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
